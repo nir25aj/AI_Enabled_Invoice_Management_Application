@@ -66,3 +66,6 @@ In the real world, businesses often struggle with delayed payments beyond the st
 - **Frontend:**
   - Developed a responsive UI using ReactJS to display invoice data.
   - Integrated UI functionalities with backend operations and the Machine Learning model to predict payment dates.
+
+### **Snapshots**
+[View](https://github.com/nir25aj/AI_Enabled_Invoice_Management_Application/blob/my-new-branch/Front_End/Frontend/UI.png)
