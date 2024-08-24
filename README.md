@@ -19,6 +19,8 @@ In the real world, businesses often struggle with delayed payments beyond the st
 
 ### **Frontend**
 - **React JS**
+- **HTML**
+- **CSS**
 
 ### **Backend**
 - **Java**
