@@ -36,17 +36,8 @@ In the real world, businesses often struggle with delayed payments beyond the st
 - **SQL Yog**
 - **Jupyter Notebook**
 
-## **High-Level Requirements**
-1. **Data Loading into Database:**
-   - Parse, process, and load invoice datasets into the database.
-   
-2. **UI Representation:**
-   - Build a responsive UI to display, search, and paginate invoice data.
-   - Support editing, adding, deleting rows, and advanced search functionalities.
-   
-3. **AI Integration:**
-   - Predict payment dates for one or more invoices with a button in the UI.
-   - Persist the predicted payment dates across sessions.
+## **Diagram**
+![Diagram](https://github.com/nir25aj/AI_Enabled_Invoice_Management_Application/blob/my-new-branch/Back_End/Backend/Data_Model.png "Diagram")
 
 ## **Implementation**
 
