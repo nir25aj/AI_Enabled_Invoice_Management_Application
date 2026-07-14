@@ -46,6 +46,7 @@ In the real world, businesses often struggle with delayed payments beyond the st
 - **Data Pre-processing:** Cleaned, normalized, and standardized the dataset.
 - **Exploratory Data Analysis (EDA):** Performed EDA to identify vital features using Python libraries like Matplotlib and Seaborn.
 - **Model Training:** Implemented XGBoost Regressor to predict payment dates.
+- **Model Performance:** Best model XGBoost Regressor, achieving R² = 0.76 on the test set (compared against Linear Regression, SVR, Decision Tree, and Random Forest).
 - **Prediction Deployment:** Deployed the model using Flask for integration with the web application.
 
 ### **UI & Database**
