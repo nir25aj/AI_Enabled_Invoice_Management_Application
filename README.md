@@ -37,7 +37,7 @@ In the real world, businesses often struggle with delayed payments beyond the st
 - **Jupyter Notebook**
 
 ## **Diagram**
-![Diagram](https://github.com/nir25aj/AI_Enabled_Invoice_Management_Application/blob/my-new-branch/Back_End/Backend/Data_Model.png "Diagram")
+![Diagram](https://github.com/nir25aj/AI_Enabled_Invoice_Management_Application/blob/main/Back_End/Backend/Data_Model.png "Diagram")
 
 ## **Implementation**
 
@@ -59,4 +59,4 @@ In the real world, businesses often struggle with delayed payments beyond the st
   - Integrated UI functionalities with backend operations and the Machine Learning model to predict payment dates.
 
 ### **Snapshots**
-![UI Screenshot](https://github.com/nir25aj/AI_Enabled_Invoice_Management_Application/blob/my-new-branch/Front_End/Frontend/UI.png "Invoice Management UI")
+![UI Screenshot](https://github.com/nir25aj/AI_Enabled_Invoice_Management_Application/blob/main/Front_End/Frontend/UI.png "Invoice Management UI")
